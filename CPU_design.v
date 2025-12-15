@@ -1,5 +1,4 @@
-// -----------------------------------------------------------------
-// Verilog HDL Modules Extracted from PDF Images
+
 // These modules represent components for a MIPS-like datapath.
 // -----------------------------------------------------------------
 
