@@ -265,7 +265,7 @@ endmodule
 
 
 // Figure 12: 32-to-9 Encoder
-// Note: This appears to be an unrolled 32-to-5 encoder where the output is 9-bit for some reason.
+// unrolled 32-to-5 encoder where the output is 9-bit for some reason.
 // The selection logic only goes up to 5'd31 (32 states). The output size should probably be 5 bits.
 module encode_32to9 (
  output reg [8:0] select_9,
